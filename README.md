@@ -1,2 +1,2 @@
 # coursera1
-e learn
+e learnings
